@@ -2,7 +2,7 @@
 
 A browser based react app lets you display, download and share a random image sourced from unsplash.
 
-![App preview](./screenshots/screenshot-1.png)
+![App preview](./src/screenshots/screenshot-1.png)
 
 ## How to run locally
 
